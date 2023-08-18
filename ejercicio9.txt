@@ -1,0 +1,10 @@
+int sum(int num1,int num2,int num3){
+    int sum=num1+num2+num3;
+    return sum;
+}
+sum(5,7,9)
+int calcular(int angulo1,int angulo2){
+    int angulo3=10-(angulo1+angulo2);
+    return angulo3;
+}
+calcular(15,19)
