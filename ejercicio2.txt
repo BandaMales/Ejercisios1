@@ -1,3 +1,7 @@
+//Print "Hello Word"
+//Print 5*3 as is
+//Print calculated values of 5*3
+//How to print mathematical table of 5 now
 System.out.println("HELLO WORD")
 System.out.println("5*3")
 System.out.println("5*1")
