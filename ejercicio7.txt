@@ -1,0 +1,12 @@
+void helloWord(){
+    System.out.println("HELLO WORLD");
+    System.out.println("FROM");
+    System.out.println("ECUADOR");
+}
+helloWord()
+void printLearning(){
+    System.out.println("cREANDO MI PRIMERA VARIABLE");
+    System.out.println("CREANDO MI PRIMER METODO");
+    System.out.println("TODO DESDE JAVA");
+}
+printLearning()
