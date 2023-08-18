@@ -1,0 +1,8 @@
+int z=15;
+System.out.printf("%d + %d = %d", x,y*5).println()
+System.out.printf("%d + %d = %d", 5,1,5*10).println()
+System.out.printf("%d + %d + %d = %d", x,y,z,x+y+z).println()
+int x=3;
+System.out.printf("%d + %d + %d = %d", x,y,z,x+y+z).println()
+int y=12;
+System.out.printf("%d + %d + %d = %d", x,y,z,x+y+z).println()
