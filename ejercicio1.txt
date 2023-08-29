@@ -1,2 +1,4 @@
 24*60
 1440*60
+
+//Ejercicio editado
